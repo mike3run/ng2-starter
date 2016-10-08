@@ -1,0 +1,24 @@
+{
+  "name": "ng2",
+  "version": "1.0.0",
+  "description": "starter point for angular 2 apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike3run/ng2-starter.git"
+  },
+  "keywords": [
+    "angular",
+    "2",
+    "webpack"
+  ],
+  "author": "mike3run",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mike3run/ng2-starter/issues"
+  },
+  "homepage": "https://github.com/mike3run/ng2-starter#readme"
+}

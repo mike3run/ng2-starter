@@ -8,3 +8,11 @@ We have to use webpack to learn that shit.
 Also give typescript a go.
 
 Let's fucking go!
+
+# Webpack
+The whole idea here is to use webpack to budle everything for us and also to have everything testeable.
+
+# Styling
+Let's have some global styles with my ground-zero sass file and now each component should have access to the variables, functions and mixins.
+
+Styles should run though the same loaders as my ground-zero sass file (autoprefixer, group-css-media-queries, css-comb)
