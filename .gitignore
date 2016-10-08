@@ -1,0 +1,14 @@
+node_modules
+npm-debug.txt
+.DS_Store
+Thumbs.db
+
+# Dist #
+/dist
+/public/__build__/
+/src/*/__build__/
+/__build__/**
+/public/dist/
+/src/*/dist/
+/dist/**
+.webpack.json
